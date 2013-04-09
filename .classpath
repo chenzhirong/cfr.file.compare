@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.jgit-2.2.0.201212191850-r.jar"/>
+	<classpathentry kind="lib" path="F:/WB_v1.5.2_UpdateSite_for_Eclipse3.7/plugins/org.eclipse.wb.xwt_1.5.2.r37x201302112106.jar"/>
+	<classpathentry kind="lib" path="F:/WB_v1.5.2_UpdateSite_for_Eclipse3.7/plugins/org.eclipse.wb.swt.widgets.baseline_1.5.2.r37x201302112047.jar"/>
+	<classpathentry kind="lib" path="F:/WB_v1.5.2_UpdateSite_for_Eclipse3.7/plugins/org.eclipse.wb.swt_1.5.2.r37x201302112017.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

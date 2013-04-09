@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Compare
+Bundle-SymbolicName: cfr.file.compare;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: file.compare.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.compare;bundle-version="3.5.202"
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Export-Package: file.compare
